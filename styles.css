@@ -4,8 +4,9 @@ h1 {
     font-size: 30px;
 }
 
-h2 {
-    font-family:'Times New Roman', Times, serif
+#troops {
+    line-height: 2px;
+    font-weight: bold;
 }
 
 h3{
